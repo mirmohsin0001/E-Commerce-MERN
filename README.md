@@ -1,10 +1,13 @@
-E-Commerce MERN
+# E-Commerce MERN
 
-# nav-bar end 22:50
+### Timestamps
 
-# hero-section end 43:04
+- nav-bar end 22:50
 
-https://youtu.be/y99YgaQjgx4?si=A9SQlce-T_2LmAvP
+- hero-section end 43:04
 
-#Vercel Deploy
-https://e-commerce-mern-frontend-three.vercel.app/
+### Links
+
+- **[YoutubeVideo](https://youtu.be/y99YgaQjgx4?si=A9SQlce-T_2LmAvP)** - Youtube video that i learned from
+
+- **[VercelDeploy](https://e-commerce-mern-frontend-three.vercel.app/)** - Click to check out live website
