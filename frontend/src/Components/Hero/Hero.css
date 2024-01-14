@@ -2,7 +2,9 @@
     height: 100vh;
     background: linear-gradient(180deg, #fde1ff, #e1ffaa22 60%);
     display: flex;
+    justify-content: space-around;
 }
+
 .hero-left{
     flex: 1;
     display: flex;
@@ -22,7 +24,7 @@
 
 .hero-left p{
     color: #171717;
-    font-size: 100px;
+    font-size: 5rem;
     font-weight: 700;
 }
 
@@ -34,7 +36,7 @@
 }
 
 .hero-hand-icon img{
-    width: 105px;
+    width: 75px;
 }
 
 .hero-latest-btn div{
@@ -57,4 +59,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.hero-right img{
+    scale: 50%;
+    transform: translateX(-300px);
 }
