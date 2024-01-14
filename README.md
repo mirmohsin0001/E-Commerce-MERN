@@ -1,6 +1,8 @@
 E-Commerce MERN
 
-# nav-bar end: 22:50
+# nav-bar end 22:50
+
+# hero-section end 43:04
 
 https://youtu.be/y99YgaQjgx4?si=A9SQlce-T_2LmAvP
 
